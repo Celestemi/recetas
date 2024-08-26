@@ -1,0 +1,30 @@
+[33mcommit 4d1963b3a46f223fd8b643fc61e083ee42e11bbc[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: 73498635 <73498635@continental.edu.pe>
+Date:   Mon Aug 26 14:55:41 2024 -0500
+
+    Se modifica ruta de imagen en receta
+
+[33mcommit 34bb012284709e4ad72b4999b328ab008ebbe409[m
+Merge: 47dc7c0 6cce108
+Author: 73498635 <73498635@continental.edu.pe>
+Date:   Mon Aug 26 14:46:40 2024 -0500
+
+    Merge branch 'main' of https://github.com/Celestemi/recetas
+
+[33mcommit 47dc7c0d590e6cd3dcee7eaba8ced838d831661c[m
+Author: 73498635 <73498635@continental.edu.pe>
+Date:   Mon Aug 26 14:45:33 2024 -0500
+
+    Se añade codigo base
+
+[33mcommit 6cce108f99cfea0676210cdd527476ee102c2b9f[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Celestemi <150198899+Celestemi@users.noreply.github.com>
+Date:   Mon Aug 26 14:43:07 2024 -0500
+
+    Update README.md
+
+[33mcommit f9fc811b28506958fc51a94e5f882464e46c2951[m
+Author: 73498635 <73498635@continental.edu.pe>
+Date:   Mon Aug 26 14:40:26 2024 -0500
+
+    first commit
